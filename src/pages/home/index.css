@@ -1,0 +1,11 @@
+.react-time-picker__inputGroup {
+    @apply flex items-center;
+}
+
+.react-time-picker__input {
+    @apply border-2 border-gray-300 rounded-lg p-2;
+}
+
+.react-time-picker__clock {
+    @apply bg-white rounded-lg shadow-lg;
+}
